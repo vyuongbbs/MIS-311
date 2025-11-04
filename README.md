@@ -35,6 +35,7 @@ The dataset provides descriptive statistics for three key variables: Year, Avera
 <img width="793" height="464" alt="image" src="https://github.com/user-attachments/assets/74f111e4-f661-4495-8902-f2412b0f2ec4" />
 
 Figure 1. Average Income Changes Over Time (2000–2023).
+
 The analysis below provides deeper insights into these observed trends and their potential implications:
 
 • The line chart illustrates notable fluctuations in average monthly income from 2000 to 2023, revealing several cycles of growth and decline. There is a clear upward movement around 2010, followed by varying income levels across subsequent years, reflecting periods of economic recovery and contraction. The sharp rise near the end of the period suggests a short-term boost in earnings, which may be linked to inflationary pressures or shifts in global market dynamics.
@@ -45,6 +46,7 @@ The analysis below provides deeper insights into these observed trends and their
 <img width="836" height="464" alt="image" src="https://github.com/user-attachments/assets/e866e2d5-70be-4ddd-9474-46dd3fff8104" />
 
 Figure 2. Income vs Cost of Living. 
+
 The following analysis explores this correlation in greater depth to uncover its economic implications:
 
 • The scatter plot presents the relationship between average monthly income and cost of living, revealing a generally positive association between the two variables. As income levels rise, the cost of living also tends to increase, suggesting that higher-earning regions often face greater expenses. This pattern aligns with the concept of economic parity, where regions with stronger economies and higher wages also experience elevated consumer prices and living standards.
