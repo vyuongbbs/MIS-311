@@ -28,10 +28,12 @@ The boxplot results indicate that there are no significant outliers in the varia
 <img width="1432" height="470" alt="image" src="https://github.com/user-attachments/assets/86cfe452-b424-4cca-b438-3e64228052db" />
 # Descriptive Statistics
 <img width="533" height="299" alt="image" src="https://github.com/user-attachments/assets/57c7272e-738f-41ad-bb2f-484daf944150" />
+
 The dataset provides descriptive statistics for three key variables: Year, Average Monthly Income, and Cost of Living. The data spans from 2000 to 2023, with an average year of 2011. Average Monthly Income has a mean of 4,274, ranging from 535 to 7,976, while the Cost of Living has a mean of 3,700, ranging from 484 to 7,081. Both variables show relatively high standard deviations (2,129 for income and 1,985 for cost of living), indicating considerable variation across observations. These results suggest differences in income levels and living expenses over time, reflecting possible economic disparities between years or regions.
 
 # Analysis Findings:
 <img width="793" height="464" alt="image" src="https://github.com/user-attachments/assets/74f111e4-f661-4495-8902-f2412b0f2ec4" />
+
 Figure 3. Average Income Changes Over Time (2000–2023).
 The analysis below provides deeper insights into these observed trends and their potential implications:
 
