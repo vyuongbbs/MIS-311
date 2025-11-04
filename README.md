@@ -1,6 +1,6 @@
 # Project : Cost of Living Analysis
 
-# Project overview:
+# Project Overview:
 
 # Objective
 The objective of this project is to analyze global trends in cost of living and average monthly income across multiple countries and regions. By performing Exploratory Data Analysis (EDA), we aim to understand the relationship between the income level of individuals and the expenses required to maintain living standards in different parts of the world. Through data visualization and statistical interpretation, this project highlights economic differences between regions, identifies patterns of affordability, and provides insights that may assist individuals, policymakers, and businesses in making informed decisions regarding relocation, salary benchmarking, and international market evaluation.
@@ -48,7 +48,7 @@ Figure 2. Income vs Cost of Living.
 The following analysis explores this correlation in greater depth to uncover its economic implications:
 • The scatter plot presents the relationship between average monthly income and cost of living, revealing a generally positive association between the two variables. As income levels rise, the cost of living also tends to increase, suggesting that higher-earning regions often face greater expenses. This pattern aligns with the concept of economic parity, where regions with stronger economies and higher wages also experience elevated consumer prices and living standards.
 
-• The dispersion of data points indicates variability across different observations, meaning that some regions may achieve higher income levels without a proportionate rise in living costs, while others struggle with high expenses despite moderate income. This finding highlights the importance of balanced economic growth—ensuring that wage increases keep pace with inflation and living expenses to maintain sustainable purchasing power and overall financial stability.
+• The dispersion of data points indicates variability across different observations, meaning that some regions may achieve higher income levels without a proportionate rise in living costs, while others struggle with high expenses despite moderate income. This finding highlights the importance of balanced economic growth ensuring that wage increases keep pace with inflation and living expenses to maintain sustainable purchasing power and overall financial stability.
 
 
 
