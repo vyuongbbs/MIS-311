@@ -9,7 +9,7 @@ This dataset provides economic indicators related to household income and cost o
 • Region : The geographical region to which the country belongs
 • Year : The year when the data was recorded.
 • Average_Monthly_Income : The average monthly income of individuals in USD.
-• Cost_of_Living: The average monthly cost of living in USD, including essentials like housing, food, and utilities.
+• Cost_of_Living: The average monthly cost of living in USD, including essentials like housing, food, and utilities
 # Data Cleaning
 # Missing Values
 Analyzing the dataset revealed missing values in the Average_Monthly_Income and Region columns. To address this, the median imputation method was applied for numerical data and the mode was used for categorical data, ensuring accuracy while maintaining data consistency. After processing, the dataset is complete and ready for further analysis.
