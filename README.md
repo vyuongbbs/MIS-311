@@ -1,1 +1,1 @@
-# Part 1: Data Analysis and Insight
+# Project : Cost of Living Analysis
